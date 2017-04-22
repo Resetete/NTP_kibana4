@@ -1,1 +1,1 @@
-# NTP_kibana4
+# NTPlatform
